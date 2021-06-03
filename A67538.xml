@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A religious retreat sounded to a religious army by one that desires to be faithful to his country, though nnworthy [sic] to be named.</title>
+            <author>Ward, Nathaniel, 1578-1652.</author>
+         </titleStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67538</idno><idno type="EEBO-CITATION">13523064</idno>
+  <idno type="VID">99923</idno>
+  <idno type="EEBO-PROQUEST">2240859776</idno>
+  
+            <idno type="STC">Wing W782</idno>
+            <idno type="STC">ESTC R33548</idno>
+            <idno type="OCLC">13523064</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A67538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99923)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1559:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A religious retreat sounded to a religious army by one that desires to be faithful to his country, though nnworthy [sic] to be named.</title>
+                  <author>Ward, Nathaniel, 1578-1652.</author>
+               </titleStmt>
+               <extent>13 [i.e. 11] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Stephen Bowtell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains errors in pagination.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99923:1"/>
+            <p>A Religious Retreat SOUNDED To a Religious Army,</p>
+            <p>By one that desires to be faithful to his Country, though unworthy to be named.</p>
+            <q>
+               <p>Bonus Civis initia belli Civilis invitus suscipit, extrema non libentèr perse<g ref="char:EOLhyphen"/>quitur,</p>
+               <bibl>
+                  <hi>Cic.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Stephen Bowtell</hi> at the <hi>Bible</hi> in <hi>Popeshead-Alley,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:99923:2"/>
+            <pb n="3" facs="tcp:99923:2"/>
+            <head>Worthy Gentlemen and Souldiers.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen you had done God and the Kingdom that faithful and succesful service, for which you deserved to be recompenced with all the honor and rewards the State can wel afford you;</p>
+            <p>If then you had tendred your selves in a Christian manner to lay down your Arms, or be disposed of by the piety and prudence of the Parliament, you had crowned the Go<g ref="char:EOLhyphen"/>spel and your selves with perpetual praise.</p>
+            <p>If then you had consulted what is amiss in the state and Church, and tendred your observations to the Parliament with respective in<g ref="char:EOLhyphen"/>treaty, that as you had given proof of your fidelity and magnanimity for their sakes, so they would please now to manifest their sanctity and ingenuity for yours, in considering and redressing what you had or should proffer; you had not only sealed up your Christianity to all ages, but obliged both Houses to have rendred you all due regard, or to have prostituted themselves to such Animadversions from all hands, as they could never have born with honor.</p>
+            <p>But seeing you are pleased to chuse another way, wherein not a few of your godly Brethren and Friends fear you expose your selves to more temptations, and re-involve the state in more troubles, then are yet felt or foreseen: give leave to one who loves you as much for your valour and vertue as any other whatever he be, to speak a few words in your eares, wherein if he shal take a piece of your courage upon him to speak freely, he presumes you wil excuse him.</p>
+            <p>
+               <hi>Fortis fortem amat.</hi>
+            </p>
+            <p>I know you are too too ful of Agitations, to attend to any general Declamation about the Purgatory of civil wars, or the Paradise of Na<g ref="char:EOLhyphen"/>tional Peace: whereof I beleeve many of you have read much in Scrip<g ref="char:EOLhyphen"/>ture and humane Histories: I shal rather address my self to you, with some opportune perswasives taken from instant occurrences which tender themselves obviously to the view of such as are seriously obser<g ref="char:EOLhyphen"/>vant of divine Providences,</p>
+            <pb n="4" facs="tcp:99923:3"/>
+            <p> It hath pleased God, whom we all acknowledg to be the Lord of our Hoasts, and the King of our Peace, so to over-shadow and over<g ref="char:EOLhyphen"/>rule these late sinful and threatning tumults, that what good men feared, and evil men hoped, is not come to pass; in stead of Blood and Rapine, we have met with quietness and innocency: blessed be his Name, he hath guided you with such moderation, that all honest men honour you for your honesty: Let it be your and our wisdom, to ho<g ref="char:EOLhyphen"/>nor Him, who hath honoredyou, and favour'd us, far beyond both our deserts and expectations.</p>
+            <p>This more then ordinary goodness of his, hath suggested two great motives to peace.</p>
+            <p>First, his apparent unwillingness that we should proceed to any further war; what provocations and preparations were in the spirits of both sides is known to Him, and not unknown to us, assuredly much more then can be justified; the City was resolved to fight for their safety and reputation, the Army resolved not to be outdar'd, but the God of mercy and peace would suffer neither to draw a Sword; it stood with his honor to restrain the pride and rage of man; and there<g ref="char:EOLhyphen"/>by he hath spoken plainly, that he wil have us fight no more one a<g ref="char:EOLhyphen"/>gainst another, unless we wil first fight against him and his wil.</p>
+            <p>Nor hath he discovered his own mind only, but the minds of all that are wel minded, how weary they are of war, how desirous of peace, how willing to lay down all humane glory for peace sake. How easily such a City might have swallowed up such an Army, is easily confessed by any humble heart; nor do I doubt, but some Spirit or other whispered in the eares of many Citizens what the senators spake out to the City of <hi>Rome</hi> in the like danger.</p>
+            <q>
+               <p>His teterrimis fratribus portas aperietis? hos unquam in ur<g ref="char:EOLhyphen"/>bem recipietis? non tempore oblato, Ducibus paratis, ani<g ref="char:EOLhyphen"/>mis militum incitatis, populo Romano conspirante, tota ur<g ref="char:EOLhyphen"/>be ad pacem &amp; dignitatem conservandam excitata, Deorum Immortalium beneficio utemini?</p>
+            </q>
+            <p>But you shewed your selves not <hi>teterrimi,</hi> but <hi>amicissimi fratres;</hi> nor did the City <hi>conspirare,</hi> but <hi>portas aperire;</hi> surely the Spirit of peace won the day of the Spirit of war in all your hearts.</p>
+            <p>The remarkable kindness of God in these over-tures of his good pleasure towards us, hath set me on work, with all sincere affection to beseech and besiege you with this following Intreaty; wherein,
+<pb n="5" facs="tcp:99923:3"/>because you are Gentlemen of <hi>Roman</hi> Spirits, I shal here and there intersert a few passages of the old <hi>Roman</hi> wisdom, praying you to understand, that I turn not the worst side, or sense of them upon you, but only what is pla<g ref="char:EOLhyphen"/>cide and perswading; and knowing sundry of your chief Councel, to whom I chiefly direct my speech, to be wel acquainted with the <hi>Roman</hi> tongue I shal not troul le my self to put them into <hi>English,</hi> and the rather, because I would not have common people hear all I say.</p>
+            <p>My intended aime is Threefold:</p>
+            <p>First, to intreat you now to re-collect your selves in cool blood, and with all meekness of wisdom, resolve to reserve such a competent Army of select Forces on foot, as the wisdom of the state shal think meet for our present safety, so ordered and quartered, that they may be neither a terror nor a burthen to the Country: and to suffer the rest to be disposed of, according to the mind of God, and prudence of the Parliament, not infringing the Liberty of the Subject.</p>
+            <p>Second, that whatsoever else you intend to do, you would leave us a free Parliament, so free, that it may not only be fully free within it self, but clearly free in the apprehensions of the whole Land: if you leave us not this, you leave us just nothing, you rend our state up by the roots.</p>
+            <q>
+               <p>Nisi leges authoritate Senatus sanciantur &amp; rescindantur, imago, nulla liberae Civitatis relinquetur.</p>
+            </q>
+            <p>Third, to give you a true information of what Errors and temptations you have and may fal into, at least as wise and moderate men judg, what blames lye upon you, what fears possess the hearts of many who truly fear God, and have an Interest in the Throne of Grace, that you may be intrea<g ref="char:EOLhyphen"/>ted to avoid them, and to listen to the two former, which I earnestly per<g ref="char:EOLhyphen"/>swade with these ensuing Arguments, and that very briefly.</p>
+            <p>IT is acknowledged by diverse good men on your own party, and great<g ref="char:EOLhyphen"/>ly bewailed by many godly men, that dare not close with you, that they cannot find out any religious or rational ground for these your late proceed<g ref="char:EOLhyphen"/>ings. Such as walk abroad are these:</p>
+            <p>That other people upon such motions, though irregular, have made their progresses to great heights.</p>
+            <p>That you are carryed on by an <hi>Impetus animi,</hi> a more then ordinary im<g ref="char:EOLhyphen"/>pulsion of Spirit.</p>
+            <pb n="6" facs="tcp:99923:4"/>
+            <p> That you follow the Dictates of Providence.</p>
+            <p>That God hath now given the Dominion into the hands of his Saints.</p>
+            <p>That you have conquered the Land, and it being yours by Conquest, you may do what you do.</p>
+            <p>That you are privy to such plots as may ruine the Kingdom and Parlia<g ref="char:EOLhyphen"/>ment, if you should not by this course prevent them.</p>
+            <p>For the Four first, they passe with me as vagabond tales, that have nei<g ref="char:EOLhyphen"/>ther house nor home; it is too hard to beleeve, that understanding men should attempt such an enterprise upon such wilde warrants. Historians will tell you, that they have been often found but destructive dreams: I need not say often, but ever. Logicians wil tell you, that such irrational phansies give Commission to any mutinous Insurrections whatsoever; for what company of mal-contents may not plead them, and who can confute them? And Divines will tell you, that irregular beginnings, will nev<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r warrant re<g ref="char:EOLhyphen"/>gular proceedings in the same hands and kind, not ever assure regular issues.</p>
+            <p>For the Fifth, though I suppose you are too wise to plead it, yet because some men plead it for you, I will say this little to it: If the Master and Mates of a rich Ship should endevour to carry it away from the owners, and Mer<g ref="char:EOLhyphen"/>chants, and take it for their own use, and the rest of the Mariners should re<g ref="char:EOLhyphen"/>sist and overcome them, and preserve the Ship for those whose it is, I sup<g ref="char:EOLhyphen"/>pose you would not say the Ship and Goods were therefore theirs: Or if a man should hire some stout men to turne out of his house some that would take and keep possession of it wrongfully; that therefore they might claime and own the house. If you claime the Realm by conquest, it will be expe<g ref="char:EOLhyphen"/>cted in good Justice, that you should repay to the Kingdom all the moneyes and costs they have been at; and that you should now take the care of the State into your hands to manage and rule it, and discharge the Parliament, who certainly will be loth to serve their servants, or to spend more travaile and trouble about that which is yours.</p>
+            <p>The sixth is somewhat fair, if you can make it good by honest and ho<g ref="char:EOLhyphen"/>norable testimony, besides such as maybe had from any of your Army, for you are all joynt accusers; That there are indeed such plots: That they are known to you, and not to the Parliament, who likely would and could prevent them: That they can by no means be prevented, but by this your very way. We shal then acknowledg, that though such proceedings may be illegal, yet they may not be unlawful.</p>
+            <p>You are reported to be an Army of Saints and Christians, at least in great part, I am ready enough to beleeve it: If you be so, you must not think
+<pb n="7" facs="tcp:99923:4"/>much to give God and the State, whereof you are Subjects, a Christian An<g ref="char:EOLhyphen"/>swer to that most Christian Question, which the Holy Ghost puts to all Christian Soldiers, <hi>Whence are your Warrs?</hi> James 4, 1. If you can do it, every Christian in the Land wil rejoyce in your Christianity; but till you do it, you must not be offended, if every Christian which is not acquainted with your grounds, interpret your intentions by the language of your acti<g ref="char:EOLhyphen"/>ons, and suspect with a holy fear, that your wars, for so they may be called, though there be no stroaks, are but wanton Wars, rising from, and striving for some unmodified lusts or other.</p>
+            <p>Yea, give me leave to tell you Gentlemen, that it concerns you, as much as your Lives, Honors, and Religion comes to, to give the state and Chur<g ref="char:EOLhyphen"/>ches of ENGLAND, a satisfactory accompt of these mystical motions: it may be many of you are satisfied in your selves, but that is not enough in publick and popular cases.</p>
+            <q>
+               <p>Non Scipioni, sed Senatui, non Senatui, sed Reipublicae responden<g ref="char:EOLhyphen"/>dum est.</p>
+            </q>
+            <p>If you cannot do it, it wil please God best, that you put an end to them as speedily as you can, and trust him with his own cause.</p>
+            <p>It is likewise feared by those that love you much, That you run too great a hazard for your own behalfes.</p>
+            <p>Your friends suspect you presume too much of the prowess of your Army, that it is irresistible and invincible; take heed you be not deluded, let not your late quiet march through <hi>London</hi> make you conclude beyond the pre<g ref="char:EOLhyphen"/>mises; in which act you wil hereafter confess, you walked too neer the brink of a precipice. I supppose you doubt not but the Kingdom, if it please, can make very many Armies equal to yours for Leaders and Followers, for ho<g ref="char:EOLhyphen"/>nor and valor; nor are you ignorant, that the <hi>victory is not always to the Strong.</hi> If God dislikes an Army, he can dissipate it with a far less; we have examples good store: If a Land grow weary of their Army, they can soon suppress it: and truly very many grow exceeding weary, and wil be praying and studying to be eased.</p>
+            <q>
+               <p>Quamvis submersae leges, quamvis tremefacta Libertas, Emerget tamen aliquando, vel judiciis tacitis, vel publicis suffragiis, vel apertis telis, &amp;c.</p>
+            </q>
+            <p>You may also presume much of the sanctity of the Army, and the pre<g ref="char:EOLhyphen"/>sence of God among you: we are glad to hear, that, there is what there is. should we grant it, yet it is not always a sufficient sanctuary in such cases; The holy Warriors compared with their enemies, might say as much, yet were defeated. If ever any, the <hi>Waldenses</hi> and <hi>Albingenses</hi> might trust in this; yet prevailed not: One <hi>Achan</hi> may trouble a whole Host of Isra<g ref="char:EOLhyphen"/>elites.
+<pb n="8" facs="tcp:99923:5"/>You have indeed many godly men; and many as ungodly as ever I saw or heard; I am not willing the world should hear what I have been an eye and are witness of: be not too much displeased, if I say, that if my judgment fail me not, you have some among you, with whom I fear God is very angry, and wil certainly find a time to bring them to sad reckonings, that make your Army very unsafe, I mean men or some mark.</p>
+            <p>You may also presume of the fidelity and obedience of your Soldiers, whereof we had a grateful experiment lately: but you shal do wel to con<g ref="char:EOLhyphen"/>sider, what the experience of the most experienced Leaders in the world hath ratified to all ages; That</p>
+            <q>
+               <p>Civilibus bellis, plus Militibus quam Ducibus licet.</p>
+            </q>
+            <p>You have many very hungry of prey, extreamly poor and rude, shiftles for livelyhood, weary of labor and honest callings.</p>
+            <q>
+               <p>Improbi odio &amp; taedio suarum conditionum, omnia mutari student: neque ullum vastum fretum &amp; procellosum tantos ciet fluctus, quantos multitudo, si semel libertate Luxuriat.</p>
+            </q>
+            <p>And let me tell you in time, that it is thought some mens faces among you differ from their hearts: they watch but a turn to lead their Leaders; and if the wind comes about to any purpose, it is feared you wil meet with gusts, blowing out of your own quarters; that wil hazard your very fore<g ref="char:EOLhyphen"/>mast; <hi>Verbum sapienti.</hi>
+            </p>
+            <p>It is feared that you do not tenderly consider what a black cloud you may happily make in a future Story of your actions; nor what infamies and execrations you may bring upon your dear Children to many ages. What State wil ever betrust them with places of trust so long as your memories last?</p>
+            <p>Nor that you do bethink your selves, what injury you may do to such of our Nobility, Gentry and Ministry as you purchase to you, and ingage in your disallowed way, who wil hardly live to recover that interest in good mens hearts, which they have already lost.</p>
+            <p>Nor do you wel consider what great wrongs you may do to multitudes in your Army that are young and poor, who had more need to be falling again to their work, and providing a better course of life then lying idle with you, when themselves and the Commonwealth have such need or their labor and diligence.</p>
+            <p>It is much feared that you too far proclaim either the weakness or the su<g ref="char:EOLhyphen"/>pineness of our Kingdom to forraign Nations.</p>
+            <q>
+               <p>Cogitent inimici, primùm omnium, Magistratum vigilare, adesse, pro<g ref="char:EOLhyphen"/>videre Reipublicae, deinde magnos animos esse in bonis viris, magnam concordiam, maximam multitudinem, magnas praeterea copias mili<g ref="char:EOLhyphen"/>tum: Deos denique Immortales, huic invicto Populo &amp; Clarissimo Imperio, contra omnem vim, auxilium esse laturos.</p>
+            </q>
+            <pb n="7" facs="tcp:99923:5"/>
+            <p> If subjects doe such acts, as give the world to understand, that these things are not to be found or feared in England, it may well emperill the State in such hostile times as these, when nationall ambition flowes over all bankes, and nothing con<g ref="char:EOLhyphen"/>tents men but warres: Loy all Subjects should be too studious of the honour and safetie of this nation to let it be thought at home or abroad, that such as Army as this, can command the whole Kingdome.</p>
+            <p>It is feared you have by your examples misled ignorant and prophane people into very sinfull miscariages; your deport<g ref="char:EOLhyphen"/>ment to the Parliament in some of your Demands seeming too imperative, it is thought hath incouraged many uncivill per<g ref="char:EOLhyphen"/>sons to slight it, and to offer it such Florentine rapes as have seldome or never beene heard of in this State. You doe very well to controll them, but you had done much better, if you had never taught them the way, it is the most Lethall lesson that can be taught or learned by any Subject; such as have had any hand in it should do well to grieve with all the griefe hu<g ref="char:EOLhyphen"/>mane hearts can afford: those that have offered such contem<g ref="char:EOLhyphen"/>ptuous affronts to supreame power, can do no more, unlesse it be to contemne God himselfe, who probably suffered it in part for your destruction.</p>
+            <q>
+               <p>Qui ordinem Senatorium despexerunt, ad injurias Libidines{que} suas omnia Coaequant.</p>
+            </q>
+            <p>It is an amazement to such as feare God, and know the pro<g ref="char:EOLhyphen"/>portions of State, to see multitudes present popular petitions to you, of such nature and importance, as intimate that they take you now to be the soveraigne Power of the Land, or that you can command it.</p>
+            <p>But that which is more grievous, we read in some late Pam<g ref="char:EOLhyphen"/>phlets, that in reference to some of these petitions, this and that is the sense of the Army, as if the sense of the Army were the supreame Law of the Realme. I am yet perswaded, it is ut<g ref="char:EOLhyphen"/>terly against your knowledge and wil; but if you shall receive such petitions without checke, and permit such answers to flie abroad without controll, your faithfullest friends will feare that the frames of your hearts are very much altered from what
+<pb n="8" facs="tcp:99923:6"/>they were when you first entred into your places: when wee dare say for you, you would have declined such things with feare and trembling.</p>
+            <p>As I was writing the last line, there came to my hand, a clear vindication of your loyalty heerein, for which I heartily thanke you.</p>
+            <p>It is doubted, that you doe not commiserate the Countrey so much as you should, or the exhaust condition of it requires; your supernumerary soldiers which have flockt to you of late, such as are not so trusty to the cause of the Parliament, as they should, for whom you also demand pay. Divers Officers of your companies carrying their wives and servants with them; very many Gentlemen and friends with their retinue visiting and accompanȳing you in a work about which they set them<g ref="char:EOLhyphen"/>selves and are not imployed by the Parliament, and all allowed free quarter by your Quarter-master, doe not only alienate the hearts of men from you, more then you are aware of, but mise<g ref="char:EOLhyphen"/>rably impoverish mens estates and families.</p>
+            <p>It is supposed, that though you professe the continuance of your Army be, to settle peace and suppresse new commotions, yet that it will rather provoke to them. If one man stands in the street with a payre of Cudgels in his hands, he will soone invite many more to crackt crownes: while you march under the Commission and countenance of the Parliament, you were under God, safe; but since they ordered your disbanding, and you refused, you are lookt at by many, as chalengers or Cham<g ref="char:EOLhyphen"/>pions, having little else to beare up your armes, but your own legges. Men that have good eares and eyes, doe not see any great feare of domestique Insurrections, nor of forraigne Inva<g ref="char:EOLhyphen"/>sions, so much as to keepe a numerous Army on foot to pro<g ref="char:EOLhyphen"/>pell them; nothing appears to them more likely to stir up new warres at home, then these your proceedings; for it cannot be expected, that the spirit of war will bee layd downe so long as you keepe your Army up, too many hoping for new imploy<g ref="char:EOLhyphen"/>ment cannot settle to any other course. Long wars have ever begat a trade of warre. You must thinke that all who malign you, will be stirring up new quarrells against you, and patties
+<pb n="9" facs="tcp:99923:6"/>to maintaine them, that all who cannot allow your way, will be blowing smoake in your faces, that the whole clamour of the people will at length cry up stirres, to cry you downe: You may easily observe, if you please, that all the late Stirres, which you call mutinies and treacheries, tending to new wars and spilling of blood, have rose in opposition to you; if you would lay downe your Armes, it is hoped every true subject would lay downe his head on his pillow, and willingly take his rest.</p>
+            <p>It is much feared, that these your proceedings are very pres<g ref="char:EOLhyphen"/>sing provocations to our brethren of Scotland, putting them upon extream rackes of conscience and counsell, in regard of their Co-interest and Covenant; and what the product there<g ref="char:EOLhyphen"/>of will be, nor you nor we can foretell; if it should be in any of your minds to continue your Army and way, that you may the rather provoke them upon us, I am bold to say, you go the next way to provoke God, to provoke our children, and chil<g ref="char:EOLhyphen"/>drens children to such cursings and curses as neither you nor we shall lie quiet in our graves.</p>
+            <q>
+               <p>Pacem volo, sed pacis nomine bellum involutum nolo.</p>
+            </q>
+            <p>It is feared by some, whose charity I rather accuse then ex<g ref="char:EOLhyphen"/>cuse, that these your courses are somewhat allied to the first great-civill stirres of Rome, whereof it is sayd,</p>
+            <q>
+               <p>Illae dissensiones, erant hujusmodi quae non delendum, sed ad com<g ref="char:EOLhyphen"/>mutandum Rempublicam pertinerent, non illi nullam esse Rem<g ref="char:EOLhyphen"/>publicam, sed in ca quae esset, se esse principes voluerunt.</p>
+            </q>
+            <p>If you should ayme at any such thing for your selves or any o<g ref="char:EOLhyphen"/>thers, by whose helpe you might attaine your owne ends, the Land would blush it selfe en fire at the humility and pride of Saints.</p>
+            <p>Suppose sundry of you who are more godly, should levell at no such matter, yet I feare you could not lay us in sufficient hostage to secure us from all your followers: nor will bee in your power to hinder them, if you proceed much further.</p>
+            <q>
+               <p>Bellorum Civilium hi semper exitus, ut non ea solù fiant quae velit victor, verùm etiam, ut iis nos gerendus fit, quibus ad<g ref="char:EOLhyphen"/>jutoribus parta est victoria; minime enius omnium bellum ex
+<pb n="10" facs="tcp:99923:7"/>decretis procedit, sed ipsum ex se multa invenit, &amp; ut res sunt natae, Ambitiosi, Honores quos quiota Republica desperant, perturbata se consequi posse arbitrantur.</p>
+            </q>
+            <p>They that doe not well see where they begin, can never fore<g ref="char:EOLhyphen"/>see where they shall make an end.</p>
+            <p>It is feared that the liberty of Religion, which you seem to desire, for tender Consciences, if it bee not the better limited by the rule of the Word, will cause the State to offend all the Consciences in the Kingdom that are sincerely and judiciously tender, and the publique peace also.</p>
+            <q>
+               <p>Nimia Licentia semper evadit in aliquod magnum malum.</p>
+            </q>
+            <p>Especially in matters of Religion.</p>
+            <p>It is also observed, that you seem to set up, what God and the State hath pulled downe, and to pull downe what hath been set up with much paines and prayer: Sundry places where you have quartered falling againe to the old Service Booke, divers scandalous Ministers formerly sequestred, claiming their Li<g ref="char:EOLhyphen"/>vings under colour of your allowance, which threatens a re<g ref="char:EOLhyphen"/>turne to our old vomit; This doth utterly blast the esteeme of your Army, in the hearts of good men, who conclude that your way cannot be of God; surely when he gives the Kingdome to the Saints, be will not suffer them to give such large tolera<g ref="char:EOLhyphen"/>tion to erroneous opinions, nor to build with one hand, and plucke downe with the other. This makes us all ready to cry aloud to our Honourable Parliament,</p>
+            <q>
+               <p>Cavete Patres Conscripti, per Deos Immortales, ne spe praesentis pacis, aeternam pacis amittamus.</p>
+            </q>
+            <p>It is feared and felt, that these your motions put such an a<g ref="char:EOLhyphen"/>gue into the blood and spirits of the people throughout the Land, that they cannot bethinke themselves of heavenly and spirituall things; godly men thinke that it is full time now for men to attend the working out of their own salvation, and the welfare of their families and posterities.</p>
+            <p>It is greuly feared by wise men, that you doe hot prudent<g ref="char:EOLhyphen"/>ly consider the season wherein you undertake so important an action, a time wherin God is abating the height of all humane glory, you see how he hath dealt with our King, with our Par<g ref="char:EOLhyphen"/>liament,
+<pb n="11" facs="tcp:99923:7"/>with our City, if you grow too great and popular, your turne will certainely come in his season.</p>
+            <p>A time when God raines snares upon this whole Land, suf<g ref="char:EOLhyphen"/>fering men to act little else but obliquities, illegalities, absurdi<g ref="char:EOLhyphen"/>ties, and selfe-disappointments.</p>
+            <p>A time wherein Satan hath set the Land on fire, and like <hi>Nero</hi> sits on his Turret, making musick with his instruments, I meane his prophane lying Pamphleters, that every man may dance Antick over his brothers head. It is a Proverbe not to be neglected, that, he that danceth when the Divell pipes, shall certainely breake his shins; if he hath not the lucke to save them whol, by breaking his neck. Wise men will not travel in a night, when the aire is full of <hi>ignes fatui,</hi> nor a sober Mari<g ref="char:EOLhyphen"/>ner hoyse up all his sailes, when the windes blow in all quar<g ref="char:EOLhyphen"/>ters.</p>
+            <p>It is feared, if not concluded, by very many of your true friends, that you run into deepe errours, concerning the Par<g ref="char:EOLhyphen"/>liament, and through them to the whole Kingdome. I shall touch them as tenderly and briefly as I may.</p>
+            <p>That so long as you continue in this manner, it is impossi<g ref="char:EOLhyphen"/>ble but there will be great divisions in both Houses: your Ar<g ref="char:EOLhyphen"/>my is like a black and blustring storme, that scatters a strong fleete of friends.</p>
+            <p>That nothing can be concluded comfortably concerning the Government of the Church; which though you professed<g ref="char:EOLhyphen"/>ly disclaime to meddle with, in some of your writings, yet it is thought you aime most at it, by circuit or circumvention, you may disavow it in your owne military way, but if you mould a Parliament to your owne minde, and cause them to establish what you desire, it is all one, and you will finde it much worse: <hi>Quod vi oritur, vi moritur:</hi> These differences and delayes are very grievous to the worke and kingdome of Christ, through the contentiousnesse of unmortified men; so long as each side are peremptory and inexorable, and you hold in the wedge be<g ref="char:EOLhyphen"/>tweene them, it is not likely they will agree upon such weigh<g ref="char:EOLhyphen"/>ty debates with any convenient strength.</p>
+            <q>
+               <p>Magna vis est, magnum nomen, unum &amp; idem sentient is Senatus.</p>
+            </q>
+            <pb n="12" facs="tcp:99923:8"/>
+            <p> That you weary away many godly Members, who seeing their presence uselesse, withdraw to their homes, though I cannot commend their practise.</p>
+            <q>
+               <p>Mallem me onere officii opprimi, quam quod mihi semel cum fide impositum est, ant propter perfidiam abjicere, aut propter imbo<g ref="char:EOLhyphen"/>cillitatem animi deponere.</p>
+            </q>
+            <p>Yet heating their allegations, I dare not wholly condemne them.</p>
+            <q>
+               <p>Quamdiù ad publicum consilium &amp; authoritatem Respublica re<g ref="char:EOLhyphen"/>vocatur, manendum est quasi in vigilia quadam Consulari &amp; Senatoria.</p>
+            </q>
+            <p>but any longer is in vaine.</p>
+            <p>That in respect to your mindes and power, they have so long foreborn to punish the insolencies of sundry delinquents luxuriant in their tongues and actions, that it is likely that the Justice which God requires will never be done; and that it is almost too late to re-minde them, what was spoken to the like Counsell in the like case.</p>
+            <q>
+               <p>Retinenda est vobis constantia, gravitas, perseverantia; repeten<g ref="char:EOLhyphen"/>da est vetus illa Authorit as &amp; severitas, quibus hic Ordo ni<g ref="char:EOLhyphen"/>miùm caruit diu.</p>
+            </q>
+            <p>That by propounding matters of State and Church with your Swords by your sides, hovering so neare as you doe, you wholly take away the liberty of the Parliament.</p>
+            <q>
+               <p>Solutiores &amp; liberiores sunt, quibus est integra judicandi pote<g ref="char:EOLhyphen"/>stas, nec ut ea quae praescripta &amp; quasi imperata sunt facerent, ulla necessitate cogantur.</p>
+            </q>
+            <p>That you doe much impeach the wisdome and dignity of the Parliament in your Proposalls, wherein you not only re<g ref="char:EOLhyphen"/>quire a repeale of some things they have deliberately enacted, but some things utterly destructive to Christianity and policy.</p>
+            <q>
+               <p>Pudendum est honestoria esse decreta Legionum quam Senatus.</p>
+            </q>
+            <p>If the addresse lately published be indeed yours, which I doe not believe, truely your case is much to be pitied, and you have great cause to feare your defeate is not so far off as you may happily hope.</p>
+            <p>If you can tell me of any such Army as yours, that rose a<g ref="char:EOLhyphen"/>gainst
+<pb n="13" facs="tcp:99923:8"/>the State and mindes of their Countrey to attaine your supposed ends, that at length vanished not into nought; I wil acknowledge the shortnesse of my memory and reading.</p>
+            <p>That by these courses you doe not onely what you may to annull the present, but to provoke the people to loath all fu<g ref="char:EOLhyphen"/>ture Parliaments, so long as this generation lasts. If they esta<g ref="char:EOLhyphen"/>blish what you desire, for feare, or concurre with all you pro<g ref="char:EOLhyphen"/>pound for love, or turne this way and that way in meere obser<g ref="char:EOLhyphen"/>vance of you, what English man will ever regard a Parlia<g ref="char:EOLhyphen"/>ment more? and what foraigner will not say, the wisedome and strength of England is lost?</p>
+            <q>
+               <p>Senatus Consilia, si valuissent, Respublica staret; si non, huc at{que} illuc fluctuare cogetur.</p>
+            </q>
+            <p>And heere I must betray both my conscience towards God, my faithfulnes to my Country, and my love to you, if I once againe turne me not to our most Honourable Lords and Com<g ref="char:EOLhyphen"/>mons, and say with a better Orator;</p>
+            <q>
+               <p>Hoc profecto tempore, eam potestatem omnem vos habetis, ut sta<g ref="char:EOLhyphen"/>tuatis utrum nos, qui semper vestrae Authoritati dediti fui<g ref="char:EOLhyphen"/>mus, semper miseri lugeamus, an per vos, ac vestram fidem, virtutem, sapientiam{que} recreemur.</p>
+            </q>
+            <p>I have now spoken my thoughts to you in uprightnes, wher<g ref="char:EOLhyphen"/>in if I have vented any distemper of my owne spirit, or aymed at any sinister end, my heart hath deceived me. I am not so stu<g ref="char:EOLhyphen"/>pid, as not to expect many frownes, both from some transpor<g ref="char:EOLhyphen"/>ted men of the Army, and from others also, who will tell me, that <hi>Tutum non est scribere adver sus eos qui possunt proscribere:</hi> and that there is no prudence but silence in such times as these.</p>
+            <p>For the Army, I hope I shall lye safe behinde a treble Ram<g ref="char:EOLhyphen"/>part. 1. Their piety, which will excuse me for speaking my conscience. 2. Their valour, <hi>Fortes non sunt vindices.</hi> 3. Their own freedome to speake and doe what they judge ought to be spoken and done.</p>
+            <p>For others, I have reserved one old <hi>Roman</hi> sentence more to intrench my selfe in.</p>
+            <q>
+               <p>Si longe intervallo mea sententia ab omnibus laudetur, quid re<g ref="char:EOLhyphen"/>fert, si hodiè à pancis vituperetur?</p>
+            </q>
+            <trailer>FINIs.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
